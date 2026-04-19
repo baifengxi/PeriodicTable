@@ -7,9 +7,9 @@
 
 ### 📌 项目地址
 
-Gitee链接：[https://gitee.com/baifengfeng/periodic-table.git](https://gitee.com/zhengyuxiang/periodic-table)
+Gitee链接：[gitee🔗](https://gitee.com/baifengfeng/periodic-table.git)
 
-Github链接：[https://gitee.com/baifengfeng/periodic-table.git](https://github.com/zhengyuxiang/periodic-table)
+Github链接：[github🔗](https://github.com/baifengxi/PeriodicTable.git)
 
 
 ### ✨ 核心亮点
